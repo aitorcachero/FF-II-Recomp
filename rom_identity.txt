@@ -1,0 +1,8 @@
+display_name    = Final Fantasy II
+rom_file        = Final Fantasy II (ESP).sfc
+expected_crc32  = 355a16da
+expected_sha256 = fc318cc300618baecde3c11d3216162e987c9d8d1e731b717a83ffb69f596455
+rom_size        = 2097152
+mapping         = lorom
+region          = USA
+game_id         = snesrecomp-355a16da
